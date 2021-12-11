@@ -1,5 +1,4 @@
-/* ios 프로그래밍 스터디 1회차입니다
-ViewController 코드입니다
+/* ios 프로그래밍 스터디 1회차(스위프트로 아이폰 앱 만들기 1~2장)
 과제 내용 : Lable, Textfield, Button 조작
 */
 
